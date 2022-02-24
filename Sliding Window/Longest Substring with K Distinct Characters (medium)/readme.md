@@ -22,7 +22,6 @@ Output: 2
 
 > Explanation: The longest substring with no more than '1' distinct characters is "aa".
 
-
 ## Example 3
 
 ```python
