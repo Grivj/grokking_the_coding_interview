@@ -17,7 +17,7 @@ Write a function to return the maximum number of fruits in both baskets.
 
 ## Example 1
 
-```python
+```
 Input: Fruit=['A', 'B', 'C', 'A', 'C']
 Output: 3
 Explanation: We can put 2 'C' in one basket and one 'A' in the other from the subarray ['C', 'A', 'C']
@@ -25,7 +25,7 @@ Explanation: We can put 2 'C' in one basket and one 'A' in the other from the su
 
 ## Example 2
 
-```python
+```
 Input: Fruit = ['A', 'B', 'C', 'B', 'B', 'C']
 Output: 5
 Explanation: We can put 3 'B' in one basket and two 'C' in the other basket. This can be done if we start with the second letter: ['B', 'C', 'B', 'B', 'C']
